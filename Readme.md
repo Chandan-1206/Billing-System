@@ -21,6 +21,7 @@ This README reflects the **current working state** of the project.
 ---
 
 ## Project Structure
+```bash
 Billing-System/
 │
 ├── main.py # App entry point
@@ -31,7 +32,7 @@ Billing-System/
 ├── pdf_utils.py # PDF bill generation
 ├── Inventory.csv # Sample inventory file
 ├── inventory_viewer.ipynb
-
+```
 ---
 
 ## How It Works
